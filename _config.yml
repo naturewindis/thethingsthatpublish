@@ -10,3 +10,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+header_pages:
+   - get.html
+   - redoc.html
